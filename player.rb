@@ -4,11 +4,11 @@ class Player
     @lives = 3
   end
 
-  def name_reader
+  def name
     @name
   end
 
-  def lives_reader
+  def lives
     @lives
   end
 
